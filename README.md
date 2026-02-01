@@ -107,7 +107,7 @@
 <body>
 
 <header>
-  <h1>David Nitusime Menjunwa</h1>
+  <h1>David Nitusime Njunwa</h1>
   <p>Professional Marketing Officer – Turning Prospects into Loyal Customers</p>
   <a class="btn" href="https://wa.me/255615847469" target="_blank">Chat on WhatsApp</a>
 </header>
